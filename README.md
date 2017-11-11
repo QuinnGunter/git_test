@@ -1,1 +1,1 @@
-“This is (YourUsername)’s first git project!” 
+" Quinn test project "
